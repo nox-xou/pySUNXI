@@ -24,6 +24,6 @@ setup(
     ext_modules         = [Extension('SUNXI_GPIO', ['source/gpio_lib.c', 'source/pysunxi.c'])],
     package_dir={'': 'source'},
     packages=[''],
-  
-                            
+
+
 )
