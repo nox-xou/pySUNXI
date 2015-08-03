@@ -1,5 +1,5 @@
 /*
- * SUNXI_GPIO.c
+ * pysunxi.c
  *
  * Copyright 2013 Stefan Mavrodiev <support@olimex.com>
  *
